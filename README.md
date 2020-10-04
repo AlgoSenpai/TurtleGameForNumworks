@@ -1,2 +1,3 @@
 # TurtleGameForNumworks
-A game with your favorite turtle ! \n Usable with the numworks calculator.
+A game with your favorite turtle !
+Usable with the numworks calculator.
