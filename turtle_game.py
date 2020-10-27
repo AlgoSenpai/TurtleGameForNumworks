@@ -11,8 +11,11 @@ from turtle import *
 from random import *
 from kandinsky import *
 
-level = 1
-trunkSpeed = 0.1
+# Default config:
+### EDITABLE ######
+level = 1         #
+trunkSpeed = 0.1  #
+###################
 
 trunkPosition = 0
 
